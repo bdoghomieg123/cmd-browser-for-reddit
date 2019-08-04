@@ -16,12 +16,12 @@ To use this program, follow these instructions:
     - scroll down until you see "Create another app"
     - name it whatever you would like.
     - You will see 3 selection options. "Web app," "Installed app," and "Script." For this, you will choose "Script."
-    - description is optional. Just type jibberish text in this box if you so desire.
-    - About URL: just enter "www.example.com." This field isn't absolutely necessary
+    - Description: Just type jibberish text in this box.
+    - About URL: just type "http://www.example.com." (Without quotes)
     - Redirect URL: Same as About URL.
     - Click "Create app"
     - Keep this tab open for the next step
-- You will next need to setup the Praw.ini file. I have included a shell file for you within the repo. (No it does not have my credentials. I'm not that dumb.)
+- You will next need to setup the Praw.ini file. I have included a shell file for you within the repo. (No it does not have my credentials. I'm not that dumb. I know that may come as a shock to some.)
     - Open the praw.ini file from the repository.
     - Open the tab with the app you just created.
     - client_id: 2 spaces underneath your script name is the client_id. Copy and paste that into your Praw.ini file under "client_id"
