@@ -9,7 +9,7 @@ For now, you get instructions on how to set it up only (which were pre-written b
 
 To use this program, follow these instructions:
 
-- Python3.x (Python2.x will not work. For this reason, I discourage use on Linux unless you know what you're doing. It's frustrating. To switch to Py3 as Py2 is default on Linux)
+- Install latest version of Python (Python2 will not work. For this reason, I discourage use on Linux unless you know what you're doing. It's frustrating. To switch to Py3 as Py2 is default on Linux)
 - Install Praw(latest version. Do this by going into cmd and typing "Pip install praw" (note: you must have Python installed to do this))
 - Create an app in the Reddit settings. To do that, follow these steps:
     - Go to https://www.reddit.com/prefs/apps
