@@ -13,7 +13,7 @@ To use this program, follow these instructions:
 - Install Praw(latest version. Do this by going into cmd and typing "Pip install praw" (note: you must have Python installed to do this))
 - Create an app in the Reddit settings. To do that, follow these steps:
     - Go to https://www.reddit.com/prefs/apps
-    - scroll down until you see "Create another app"
+    - scroll down until you see "Create another app" or if you're not a nerd like me, click the box that says "Are you a developer? Create an app..." or sum like that. I don't wanna delete my apps to find out. You get the point.
     - name it whatever you would like.
     - You will see 3 selection options. "Web app," "Installed app," and "Script." For this, you will choose "Script."
     - Description: Just type jibberish text in this box.
