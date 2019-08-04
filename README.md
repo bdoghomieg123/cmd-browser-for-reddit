@@ -1,16 +1,16 @@
-# random-replier
+# Terminal/CMD reddit Browser
 
-Hello! Welcome to what I like to call the "mother of all Reddit bots."
+Hello! Welcome to a recreate of something that probably already exists. I just wanted to write it from scratch myself.
 
-This bot scours /new for posts then upvotes them based on pseudo random numbers.
+This is basically a plain-text way to view reddit posts. I'll write more detailed instructions on use when I become un-lazy.
 
-Then, by the same pseudo random numbers and if the account has a verifed email, chooses whether or not to Private Message them.
+For now, you get instructions on how to set it up only (which were pre-written by me. You're welcome.)
 
 
 To run this program, follow these instructions:
 
-- Install Praw(latest version)
-- Python3.x (Python2.x will not work.)
+- Install Praw(latest version. Do this by going into cmd and typing "Pip install praw")
+- Python3.x (Python2.x will not work. For this reason, I discourage use on Linux unless you know what you're doing. It's frustrating. To switch to Py3 as Py2 is default on Linux)
 - Create an app in the Reddit settings. To do that, follow these steps:
     - Go to https://www.reddit.com/prefs/apps
     - scroll down until you see "Create another app"
@@ -29,7 +29,7 @@ To run this program, follow these instructions:
     - password: your reddit password
     - username: your reddit username
     - user_agent: Enter jibberish here. I just put "Idk" (without the quotes.)
-- You are now ready to run the bot. All the files are connected and will run within the main.py file when relevant to the bot's task.
-- Text editor: If you don't have any special text editor other than notepad, I recommend geany. install geany from here: https://www.geany.org/download/releases/
+- Run the main.py program. (As of 8/4/19. The inbox reader is broken. Feel free to read my shit code. Godspeed if you attempt to fix it.)
+- Text editor: If you don't have any special text editor other than notepad, I recommend geany. It's easier to run programs in geany. install geany from here: https://www.geany.org/download/releases/
 - Open the program in geany. To run program in geany, simply press the F5 key.
 - Thank You and I hope you enjoy this program!
