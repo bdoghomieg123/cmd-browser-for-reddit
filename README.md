@@ -6,6 +6,8 @@ This is basically a plain-text way to view reddit posts. I'll write more detaile
 
 For now, you get instructions on how to set it up only (which were pre-written by me. You're welcome.)
 
+First and Foremost, don't file issue reports on Github. I don't look at them. If there's a problem, DM me on Reddit (Kapow-bitch is my username.)
+
 
 To use this program, follow these instructions:
 
