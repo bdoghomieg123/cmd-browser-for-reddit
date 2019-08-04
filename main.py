@@ -13,11 +13,11 @@ subreddit = reddit.subreddit('all')
 posts_already_seen = []
 while True:
     for submission in subreddit.new(limit=10):
-        if submission.subreddit == "catloversyay2019":
+        if submission.subreddit == "catloversyay2019": #this subreddit is just weird man. check it out for yourself if you don't believe me.
             print("nah lol this sub weird")
             time.sleep(2)
             clear()
-        if submission.subreddit.over18 == True:
+        if submission.subreddit.over18 == True: #Lol Not letting you see that stuff by default. 
             print("This subreddit is NSFW")
             time.sleep(2)
             clear()
