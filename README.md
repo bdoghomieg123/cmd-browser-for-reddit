@@ -34,7 +34,7 @@ To use this program, follow these instructions:
 - Open the program in geany. To run program in geany, simply press the F5 key.
 - Thank You and I hope you enjoy this program!
 
-#Intructions on use
+# Intructions on use
 Here is the portion that I finally promised to make (somehow I feel everyone who downloads this is lucky I became unlazy and decided to make this section...)
 
 Anyways, I will run through all the lines of Main.py that you can edit to tailor to your browsing habits.
