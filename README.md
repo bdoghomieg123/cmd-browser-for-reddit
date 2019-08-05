@@ -46,7 +46,7 @@ Anyways, I will run through all the lines of Main.py that you can edit to tailor
   - You can change what posts you see. Hot, Top, New, controversial, or whatever the other options are. Where it says "new", just change that to whatever you're trying to see.
 
 - Lines 16-23: subreddit exclusion.
-  - if you want to see that sub, or you want to see stuff on over 18 subreddits, remove lines 20-23. If you want to exclude a different subreddit, replace "catloversyay2019" with the subreddit you don't want to see. Or if you agree with my filter, after the end quotes of "catloversyay2019" type:
+  - if you want to see stuff on over 18 subreddits, remove lines 20-23. If you want to exclude a different subreddit, replace "catloversyay2019" with the subreddit you don't want to see. Or if you agree with my filter, after the end quotes of "catloversyay2019" type:
   or "<subreddit name>"
 
 - Line 24: Search
