@@ -2,7 +2,7 @@
 
 Hello! Welcome to a recreate of something that probably already exists. I just wanted to write it from scratch myself.
 
-This is basically a plain-text way to view reddit posts. To view instructions on things you can modify to tailor to your browsing habits, scroll down to the "Instructions" Section.
+This is basically a plain-text way to view reddit posts. To view instructions on things you can modify to tailor to your browsing habits, scroll down to the "Instructions on use" Section.
 
 First and Foremost, don't file issue reports on Github. I don't look at them. If there's a problem, DM me on Reddit (Kapow-bitch is my username.)
 
