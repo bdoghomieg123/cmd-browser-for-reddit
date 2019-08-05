@@ -17,7 +17,7 @@ while True:
             print("nah lol this sub weird")
             time.sleep(2)
             clear()
-        if submission.subreddit.over18 == True: #Lol Not letting you see that stuff by default. 
+        if submission.subreddit.over18 == True: #Lol Not letting you see that stuff by default.
             print("This subreddit is NSFW")
             time.sleep(2)
             clear()
@@ -51,13 +51,6 @@ while True:
                         print("ok moving on...")
                     time.sleep(2)
                     clear()
-
-
-                    """
-                    Everything below this line is broken Don't uncomment unless you know what you're doing.
-                    It's an attempt at integrating the readinbox file to make everything run from one file. However, I've yet to figure out how to differentiate
-                    comments on posts from private messages. Feel free to fix this
-
                     readOrNah = input("Do you want to read your inbox?[y/n]")
                     if readOrNah.lower() == "y":
                         readInbox()
@@ -65,4 +58,3 @@ while True:
                         print("Ok. Going to next post")
                         time.sleep(2)
                         clear()
-                        """
