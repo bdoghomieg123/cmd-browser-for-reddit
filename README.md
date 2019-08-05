@@ -47,7 +47,7 @@ Anyways, I will run through all the lines of Main.py that you can edit to tailor
 
 - Lines 16-23: subreddit exclusion.
   - if you want to see stuff on over 18 subreddits, remove lines 20-23. If you want to exclude a different subreddit, replace "catloversyay2019" with the subreddit you don't want to see. Or if you agree with my filter, after the end quotes of "catloversyay2019" type:
-  or "<subreddit name>"
+  or "[subreddit name]"
 
 - Line 24: Search
   - if you only want to see posts with a certain keyword in the title, in the empty quotes on line 24, type what keyword you want.
