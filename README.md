@@ -2,9 +2,7 @@
 
 Hello! Welcome to a recreate of something that probably already exists. I just wanted to write it from scratch myself.
 
-This is basically a plain-text way to view reddit posts. I'll write more detailed instructions on use when I become un-lazy.
-
-For now, you get instructions on how to set it up only (which were pre-written by me. You're welcome.)
+This is basically a plain-text way to view reddit posts. To view instructions on things you can modify to tailor to your browsing habits, scroll down to the "Instructions" Section.
 
 First and Foremost, don't file issue reports on Github. I don't look at them. If there's a problem, DM me on Reddit (Kapow-bitch is my username.)
 
@@ -35,3 +33,21 @@ To use this program, follow these instructions:
 - Text editor: If you don't have any special text editor other than notepad, I recommend geany. It's easier to run programs in geany. install geany from here: https://www.geany.org/download/releases/
 - Open the program in geany. To run program in geany, simply press the F5 key.
 - Thank You and I hope you enjoy this program!
+
+#Intructions on use
+Here is the portion that I finally promised to make (somehow I feel everyone who downloads this is lucky I became unlazy and decided to make this section...)
+
+Anyways, I will run through all the lines of Main.py that you can edit to tailor to your browsing habits.
+
+- Line 12: Subreddit switcher
+  - Want to only browse a certain subreddit? Where it says "all", switch that to the one subreddit that you want to browse. Please note that you can only browse one sub at a time if you change this.
+
+- Line 15: sort
+  - You can change what posts you see. Hot, Top, New, controversial, or whatever the other options are. Where it says "new", just change that to whatever you're trying to see.
+
+- Lines 16-23: subreddit exclusion.
+  - if you want to see that sub, or you want to see stuff on over 18 subreddits, remove lines 20-23. If you want to exclude a different subreddit, replace "catloversyay2019" with the subreddit you don't want to see. Or if you agree with my filter, after the end quotes of "catloversyay2019" type:
+  or "<subreddit name>"
+
+- Line 24: Search
+  - if you only want to see posts with a certain keyword in the title, in the empty quotes on line 24, type what keyword you want.
