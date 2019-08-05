@@ -39,10 +39,10 @@ Here is the portion that I finally promised to make (somehow I feel everyone who
 
 Anyways, I will run through all the lines of Main.py that you can edit to tailor to your browsing habits.
 
-- Line 12: Subreddit switcher
+- Line 12: Subreddit
   - Want to only browse a certain subreddit? Where it says "all", switch that to the one subreddit that you want to browse. Please note that you can only browse one sub at a time if you change this.
 
-- Line 15: sort
+- Line 15: Post Sort
   - You can change what posts you see. Hot, Top, New, controversial, or whatever the other options are. Where it says "new", just change that to whatever you're trying to see.
 
 - Lines 16-23: subreddit exclusion.
