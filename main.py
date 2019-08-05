@@ -54,6 +54,10 @@ while True:
                     readOrNah = input("Do you want to read your inbox?[y/n]")
                     if readOrNah.lower() == "y":
                         readInbox()
+                        clear()
+                        print("Done checking inbox...")
+                        time.sleep(3)
+                        clear()
                     elif readOrNah.lower() == "n":
                         print("Ok. Going to next post")
                         time.sleep(2)
