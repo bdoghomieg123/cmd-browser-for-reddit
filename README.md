@@ -1,4 +1,4 @@
-# Terminal/CMD reddit Browser
+# Terminal/CMD browser for reddit
 
 Hello! Welcome to a recreate of something that probably already exists. I just wanted to write it from scratch myself.
 
